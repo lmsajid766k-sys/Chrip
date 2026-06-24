@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "418829059246",
+    "firebase_url": "https://chrip-970ab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chrip-970ab",
+    "storage_bucket": "chrip-970ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418829059246:android:1d4f2b0ba9fe2bcf38193f",
+        "android_client_info": {
+          "package_name": "com.chrip.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ahj5Oxk4oZhmNJh8nFsE16NXlpJXPoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
